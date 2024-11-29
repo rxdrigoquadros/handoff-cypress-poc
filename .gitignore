@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Cypress Configuration
+cypress/videos/
+cypress/screenshots/
+cypress/fixtures/
+
+# Cypress logs
+cypress/reports/
+
+# Arquivos de ambiente locais
+cypress.env.json
+
+# Arquivos gerados pelo Cypress durante os testes
+cypress/downloads/
+
+# Arquivos de compilação do projeto
+dist/
+build/
+
+# Dependências do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos específicos de editor (como VSCode, etc.)
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.log
+*.bak
+
+# Arquivos específicos do Cypress
+cypress/coverage/
+
+# Arquivos do sistema
+*.swp
